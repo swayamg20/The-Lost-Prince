@@ -1,0 +1,797 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 16281 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/Unity files/Warrior
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53163
+Successfully changed project path to: F:/Unity files/Warrior
+F:/Unity files/Warrior
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity files/Warrior/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     8140 MB
+    Driver:   27.20.100.8854
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56556
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002991 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.312 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.931 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 2.208000 ms (FindLiveObjects: 0.152300 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.932500 ms  DeleteObjects: 0.085900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Total_Humanoid.prefab
+  artifactKey: Guid(ae291f65123b35a45893ece8492c178d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Total_Humanoid.prefab using Guid(ae291f65123b35a45893ece8492c178d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcaa9750a87654a4699309dbbf349b0d') in 0.243259 seconds
+  Import took 0.248499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps
+  artifactKey: Guid(4182e60ed7544424f8f619c463f7eb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps using Guid(4182e60ed7544424f8f619c463f7eb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fa9af4315b52aaf9ae8dd025f5574e') in 0.002074 seconds
+  Import took 0.004084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.841044 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1
+  artifactKey: Guid(3befec459011b9d49be4822f4afcf6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1 using Guid(3befec459011b9d49be4822f4afcf6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209884177661827cbb30a43279a530b5') in 0.001486 seconds
+  Import took 0.004144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001167 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1
+  artifactKey: Guid(3befec459011b9d49be4822f4afcf6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1 using Guid(3befec459011b9d49be4822f4afcf6c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '209884177661827cbb30a43279a530b5') in 0.001632 seconds
+  Import took 0.003609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.748658 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts
+  artifactKey: Guid(7d8d085e40d754343b12a2a183923058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts using Guid(7d8d085e40d754343b12a2a183923058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f5715852f0432a61e3c5a823078d07') in 0.001838 seconds
+  Import took 0.004350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.074890 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/Player_Movements.cs
+  artifactKey: Guid(09426c0d3680894418f6ef32e3d11aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/Player_Movements.cs using Guid(09426c0d3680894418f6ef32e3d11aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fb0face7383e1323f279036cbd16cf') in 0.008961 seconds
+  Import took 0.011944 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000675 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.871 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.4 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1571.
+Total: 1.991200 ms (FindLiveObjects: 0.126600 ms CreateObjectMapping: 0.040300 ms MarkObjects: 1.771300 ms  DeleteObjects: 0.051700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.972 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.5 MB.
+System memory in use after: 74.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.891100 ms (FindLiveObjects: 0.130600 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.680800 ms  DeleteObjects: 0.048400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.330778 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/Player_Movements.cs
+  artifactKey: Guid(09426c0d3680894418f6ef32e3d11aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/Player_Movements.cs using Guid(09426c0d3680894418f6ef32e3d11aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43cffbb7ce6bc7df38cfec72797e3b54') in 0.003479 seconds
+  Import took 0.005571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.491288 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions
+  artifactKey: Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions using Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e576ef97b26abf89e199dd7b892e27') in 0.001963 seconds
+  Import took 0.097911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.252579 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models/Animator/Berserk_ani.controller
+  artifactKey: Guid(35791e5ea13a46948b7f071fc2e71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models/Animator/Berserk_ani.controller using Guid(35791e5ea13a46948b7f071fc2e71e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f049168d50c37145cdb1a08fe434f47') in 0.063807 seconds
+  Import took 0.220186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 119.150025 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations
+  artifactKey: Guid(7eb11f9df068c2b45bc52cfc0d6e3f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations using Guid(7eb11f9df068c2b45bc52cfc0d6e3f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64db3196c89a4c0679f4d08a0d41deb') in 0.002096 seconds
+  Import took 0.328703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.918447 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement
+  artifactKey: Guid(162d3c986ae81044b8e9de5caae05de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement using Guid(162d3c986ae81044b8e9de5caae05de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe79483b141b36c9b5f071b58c47bf6') in 0.002268 seconds
+  Import took 0.055039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.570067 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx
+  artifactKey: Guid(69d59c13a83a7c74a8cc0607ded391ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx using Guid(69d59c13a83a7c74a8cc0607ded391ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e40fe587983a7a8fde4d22375241bfa') in 0.079991 seconds
+  Import took 0.082912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.983508 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle01.fbx
+  artifactKey: Guid(a3422ad278cd9a94aa3da8e6bff9deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle01.fbx using Guid(a3422ad278cd9a94aa3da8e6bff9deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074b45e07cc4e9fbef6dcb8e4ca3a6e4') in 0.010640 seconds
+  Import took 0.135178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.780064 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_00_hu.FBX
+  artifactKey: Guid(396d96d3985b08640bb8529e38292c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_00_hu.FBX using Guid(396d96d3985b08640bb8529e38292c52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a825dc2dd8f516da2cdc96048df8f4f9') in 0.221826 seconds
+  Import took 0.225362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.422409 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_idle_01_hu.fbx
+  artifactKey: Guid(e4833bd9937af394d947aa98c06dd806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_idle_01_hu.fbx using Guid(e4833bd9937af394d947aa98c06dd806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08fbcbb798843ba8ae6874db8c791ad6') in 0.123816 seconds
+  Import took 0.126527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.097588 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx
+  artifactKey: Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx using Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22c60752a69ef58b2fcde6af086e589') in 0.011830 seconds
+  Import took 0.015224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx
+  artifactKey: Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx using Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22c60752a69ef58b2fcde6af086e589') in 0.009344 seconds
+  Import took 0.012386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.372736 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01 [RM].fbx
+  artifactKey: Guid(154a724602422044c91070a5f3c67c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01 [RM].fbx using Guid(154a724602422044c91070a5f3c67c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f31b307a70d68ccc02f05ce37c895e') in 0.012104 seconds
+  Import took 0.015775 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001097 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1614.
+Total: 2.101900 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.103300 ms MarkObjects: 1.697300 ms  DeleteObjects: 0.057500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.659 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 1.836600 ms (FindLiveObjects: 0.138900 ms CreateObjectMapping: 0.032400 ms MarkObjects: 1.615600 ms  DeleteObjects: 0.048600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 1.882500 ms (FindLiveObjects: 0.138600 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.664900 ms  DeleteObjects: 0.046000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.935 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 1.685500 ms (FindLiveObjects: 0.131400 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.470900 ms  DeleteObjects: 0.047700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001624 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.124 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 3.158000 ms (FindLiveObjects: 0.253200 ms CreateObjectMapping: 0.060100 ms MarkObjects: 2.743200 ms  DeleteObjects: 0.096700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000709 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 1.814200 ms (FindLiveObjects: 0.143500 ms CreateObjectMapping: 0.036400 ms MarkObjects: 1.580500 ms  DeleteObjects: 0.052700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000699 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.850 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1632.
+Total: 1.694800 ms (FindLiveObjects: 0.140600 ms CreateObjectMapping: 0.033100 ms MarkObjects: 1.463800 ms  DeleteObjects: 0.056300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3316.402216 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/CameraController.cs
+  artifactKey: Guid(3fe06ad234a3f7447ab7ab7d3991df18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/CameraController.cs using Guid(3fe06ad234a3f7447ab7ab7d3991df18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '594164165b05c35c260dfc51dbe1734a') in 0.006106 seconds
+  Import took 0.010397 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000963 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 1.817800 ms (FindLiveObjects: 0.137300 ms CreateObjectMapping: 0.031800 ms MarkObjects: 1.600600 ms  DeleteObjects: 0.047400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000775 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.0 MB.
+System memory in use after: 75.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 1.968100 ms (FindLiveObjects: 0.153000 ms CreateObjectMapping: 0.032800 ms MarkObjects: 1.725600 ms  DeleteObjects: 0.055700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.386779 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/CameraController.cs
+  artifactKey: Guid(3fe06ad234a3f7447ab7ab7d3991df18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/CameraController.cs using Guid(3fe06ad234a3f7447ab7ab7d3991df18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96c3e4367e3a77bd07e582098939820') in 0.055325 seconds
+  Import took 0.057344 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000731 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 1.945600 ms (FindLiveObjects: 0.138000 ms CreateObjectMapping: 0.035200 ms MarkObjects: 1.718700 ms  DeleteObjects: 0.052700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 627.207029 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/Attack.cs
+  artifactKey: Guid(1331f32b9bc84e54a9dd358671931d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scripts/Attack.cs using Guid(1331f32b9bc84e54a9dd358671931d38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9190b3b0dea7c526b1a9082217f49673') in 0.006781 seconds
+  Import took 0.010083 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000935 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.942 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1646.
+Total: 1.857100 ms (FindLiveObjects: 0.138600 ms CreateObjectMapping: 0.033900 ms MarkObjects: 1.636800 ms  DeleteObjects: 0.046900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.1 MB.
+System memory in use after: 75.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
+Total: 1.862400 ms (FindLiveObjects: 0.164600 ms CreateObjectMapping: 0.035600 ms MarkObjects: 1.597000 ms  DeleteObjects: 0.064200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3646.588676 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid
+  artifactKey: Guid(e3e00ad44ab8b6849868bd9aa4865028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid using Guid(e3e00ad44ab8b6849868bd9aa4865028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d87a5d87da78ac276ecdf9c427b554') in 0.005867 seconds
+  Import took 0.128543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.195839 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_attack_01_hu.fbx
+  artifactKey: Guid(97e6ef1e469e33f44b09849132cdf7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_attack_01_hu.fbx using Guid(97e6ef1e469e33f44b09849132cdf7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747c9453cb9e09513e793b82afd8404b') in 0.257319 seconds
+  Import took 0.260431 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.2 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1653.
+Total: 1.957400 ms (FindLiveObjects: 0.144100 ms CreateObjectMapping: 0.031800 ms MarkObjects: 1.729000 ms  DeleteObjects: 0.051400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000833 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.2 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 1.969500 ms (FindLiveObjects: 0.158200 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.709700 ms  DeleteObjects: 0.057600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.2 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 1.892100 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.031400 ms MarkObjects: 1.667900 ms  DeleteObjects: 0.048800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000667 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.2 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 2.577400 ms (FindLiveObjects: 0.162700 ms CreateObjectMapping: 0.033500 ms MarkObjects: 2.309800 ms  DeleteObjects: 0.070000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000970 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.2 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1665.
+Total: 2.502300 ms (FindLiveObjects: 0.131600 ms CreateObjectMapping: 0.034600 ms MarkObjects: 2.237800 ms  DeleteObjects: 0.096500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 961.048688 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_attack_02_hu.fbx
+  artifactKey: Guid(c8f39e1c0401361429a115106f88cfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_attack_02_hu.fbx using Guid(c8f39e1c0401361429a115106f88cfc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73f4f38912a118eec97a6403e70ab7c') in 0.532009 seconds
+  Import took 0.567175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.567597 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_attack_03_hu.fbx
+  artifactKey: Guid(45ac736e63ae52e44b72f196130fa4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid/Berserk_attack_03_hu.fbx using Guid(45ac736e63ae52e44b72f196130fa4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3460ce9eaf5ce652b283365b2248cc9') in 0.126567 seconds
+  Import took 0.129583 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000663 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.967 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.2 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1669.
+Total: 1.919700 ms (FindLiveObjects: 0.158800 ms CreateObjectMapping: 0.036800 ms MarkObjects: 1.659700 ms  DeleteObjects: 0.062800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000690 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.3 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1672.
+Total: 2.042000 ms (FindLiveObjects: 0.169100 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.770600 ms  DeleteObjects: 0.058600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.3 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1675.
+Total: 2.190300 ms (FindLiveObjects: 0.172200 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.923300 ms  DeleteObjects: 0.058100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000869 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.950 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.3 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1678.
+Total: 2.101200 ms (FindLiveObjects: 0.157500 ms CreateObjectMapping: 0.037100 ms MarkObjects: 1.839700 ms  DeleteObjects: 0.065600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000678 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.3 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 1.977000 ms (FindLiveObjects: 0.195100 ms CreateObjectMapping: 0.044900 ms MarkObjects: 1.672800 ms  DeleteObjects: 0.062500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.3 MB.
+System memory in use after: 75.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1684.
+Total: 2.238700 ms (FindLiveObjects: 0.171300 ms CreateObjectMapping: 0.036900 ms MarkObjects: 1.958900 ms  DeleteObjects: 0.070100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
