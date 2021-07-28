@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{fa3ce246-b9f9-584a-a67c-15a56cbe3756}</ProjectGuid>
+    <ProjectGuid>{e700b297-65c0-aa2d-443e-d448e52fb13a}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -270,19 +270,19 @@
         <HintPath>D:/unity/New folder/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/PackageCache/com.unity.collab-proxy@1.5.7/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
         <HintPath>D:/unity/New folder/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -633,51 +633,51 @@
         <HintPath>D:/unity/New folder/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/sahil/OneDrive/Desktop/Lost-Prince_Sree/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/sahil/OneDrive/Desktop/The-Lost-Prince_Sahil/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{91655d1f-31b8-e9e5-06d2-9cf7bf7134e9}</Project>
+      <Project>{62df806b-b3a9-2691-a076-3f792a5c8791}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
