@@ -12,6 +12,9 @@ public class TrollAttack : MonoBehaviour
 
     public NavMeshAgent agent;
 
+    public AudioSource audioClip;
+ 
+
     void Update()
     {
         troll.animator.SetBool("damage", false);
@@ -41,8 +44,10 @@ public class TrollAttack : MonoBehaviour
     }
     void Attack1()
     {
+       
         float attack_range = Vector3.Distance(target.position, transform.position);
         animator.SetTrigger("Attack1");
+        audioClip.Play();
         if (attack_range <= agent.stoppingDistance)
         {
 

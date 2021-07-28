@@ -21,10 +21,15 @@ public class GameEnd : MonoBehaviour
     }
     public void exit()
     {
+        UnityEditor.EditorApplication.isPlaying = false;
         Application.Quit();
     }
     public void mainMenu()
     {
-        // SceneManager.LoadScene("");
+        SceneManager.LoadScene("MainMenu");
+    }
+    public void start()
+    {
+        SceneManager.LoadScene("SampleScene");
     }
 }

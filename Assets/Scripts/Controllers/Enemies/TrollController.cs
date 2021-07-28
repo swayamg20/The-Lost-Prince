@@ -102,5 +102,6 @@ public class TrollController : MonoBehaviour
     {
         animator.SetBool("dead", true);
         isDead = true;
+       
     }
 }

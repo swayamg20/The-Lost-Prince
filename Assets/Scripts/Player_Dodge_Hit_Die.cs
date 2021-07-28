@@ -2,13 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 public class Player_Dodge_Hit_Die : MonoBehaviour
 {
     public int currentHealth;
     public int maxHealth = 100;
     public HealthBar healthbar;
+    public static bool GameIsPaused=false;
     public Animator m_Animator;
     public EnemyController m_Enemy;
+    public GameObject pauseMenuUI;
     void Start()
     {
         currentHealth = maxHealth;
@@ -27,6 +30,10 @@ public class Player_Dodge_Hit_Die : MonoBehaviour
         {
             m_Animator.SetTrigger("Dodge");
         }
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+            
+        }
 
     }
     public void takeDamage(int damage)
@@ -43,15 +50,10 @@ public class Player_Dodge_Hit_Die : MonoBehaviour
         }
         
     }
-    public void LoadScene(string screenName)
-    {
-        SceneManager.LoadScene(screenName);
-    }
     public void die()
     {
         m_Animator.SetTrigger("Die");
-        LoadScene("gameOver");
+        SceneManager.LoadScene("GameOver");
     }
-    
 }
 

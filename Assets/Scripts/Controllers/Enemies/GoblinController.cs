@@ -26,6 +26,8 @@ public class GoblinController : MonoBehaviour
 
     bool isDead = false;
 
+    public GameObject Object;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -100,5 +102,6 @@ public class GoblinController : MonoBehaviour
     {
         animator.SetBool("dead", true);
         isDead = true;
+       
     }
 }

@@ -26,6 +26,8 @@ public class EnemyController : MonoBehaviour
 
     bool isDead = false;
 
+    public GameObject Object;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -104,6 +106,7 @@ public class EnemyController : MonoBehaviour
     {
         animator.SetBool("dead", true);
         isDead = true;
+        
     }
 
 }
