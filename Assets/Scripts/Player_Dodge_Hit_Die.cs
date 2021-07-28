@@ -30,10 +30,7 @@ public class Player_Dodge_Hit_Die : MonoBehaviour
         {
             m_Animator.SetTrigger("Dodge");
         }
-        if(Input.GetKeyDown(KeyCode.Escape))
-        {
-            
-        }
+        
 
     }
     public void takeDamage(int damage)
